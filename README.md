@@ -10,7 +10,7 @@
    </p> 
 </div>
 
-<div align="center">
+<div align="center" style="background: white">
    <a href="https://github.com/llRedXD/Cursos/tree/main/CursoEmVideo">
    <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" />
 </div>
@@ -36,16 +36,16 @@
 
 
 <h1 alt="Mundo2"> 
-   <a href="https://github.com/Miguel-ectil/Cursos/tree/main/mundo_1"> 
+   <a href="https://github.com/Miguel-ectil/Cursos/tree/main/mundo_2"> 
    <img  align="center" height="100" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png"/>
    Python Mundo 2
 </h1>
 
-[x] 
+[] 
 
 
 <h1 alt="Mundo3"> 
-   <a href="https://github.com/Miguel-ectil/Cursos/tree/main/mundo_1"> 
+   <a href="https://github.com/Miguel-ectil/Cursos/tree/main/mundo_3"> 
    <img  align="center" height="100" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3.png"/>
    Python Mundo 3
 </h1>
