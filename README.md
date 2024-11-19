@@ -18,7 +18,7 @@
  
 <h1 alt="Algoritimo"> 
    <a href="https://github.com/llRedXD/Cursos/tree/main/CursoEmVideo/Algoritimo"> 
-   <img  align="center" height="100" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/algoritmos-circle.jpg"/> 
+   <img  align="center" height="100" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/algoritmos-circle-cbeb3e4b5b7b763c5c83ac7e40d488b3-5d48cb37edbef.jpg"/> 
    Algoritmo
 </h1>
 
@@ -51,57 +51,3 @@
    Python Mundo 3
 </h1>
 
-
-* [ ] __*(Ex:04/43)*__
-
-##
-
-<div align="center">
-   <a href="https://github.com/llRedXD/Cursos/tree/main/HB">
-   <img src="https://henriquebastos.net/wp-content/webpc-passthru.php?src=https://henriquebastos.net/wp-content/uploads/2020/03/logo_web_HB.png&nocache=1" />
-</div>
-
-
-<h1 alt="WTTD"> 
-   <a href="https://github.com/llRedXD/WelcomeToTheDjango"> 
-   <img  align="center" height="100" width="100" src="https://user-images.githubusercontent.com/59977779/176488186-bec3dd85-7686-4d0f-be2e-3154b6c94b0e.png"/>
-   Welcome To The Django
-</h1>
-
-
-* [ ] __*38%*__
-
-<h1 alt="DP"> 
-   <a href="https://github.com/llRedXD/Cursos/tree/main/HB/pacote-desafios-pythonicos"> 
-   <img  align="center" height="75" width="75" src="https://user-images.githubusercontent.com/59977779/176493372-81cc5055-111f-4048-b412-ff9752e02318.png"/>
-   Desafios Pythonicos
-</h1>
-
-
-* [x] __*Completo*__
-
-<h1 alt="RxEr"> 
-   <a href="https://github.com/llRedXD/Cursos/tree/main/HB/pacote-desafios-pythonicos"> 
-   <img  align="center" height="75" width="75" src="https://user-images.githubusercontent.com/59977779/176499900-ccd446fa-b005-4c65-af9e-eb743215235b.png"/>
-   Desafios Pythonicos
-</h1>
-
-* [x] __*Completo*__
-
-##
-
-
-<div align="center">
-   <a href="https://github.com/llRedXD/Cursos/tree/main/pythonando">
-   <img height="300" width="300" src="https://user-images.githubusercontent.com/59977779/176500913-1147bf94-43c9-49cd-8313-b8c68e96523e.png" />
-</div>
-
-
-
-<h1 alt="RxEr"> 
-   <a href="https://github.com/llRedXD/Cursos/tree/main/pythonando/MagicMethods"> 
-   <img  align="center" height="75" width="75" src="https://icons-for-free.com/download-icon-super+tiny+icons+python-1324450764865983278_512.png"/>
-   Magic Methods
-</h1>
-
-* [x] __*Completo*__
