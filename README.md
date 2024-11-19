@@ -26,27 +26,26 @@
 
 
 <h1 alt="Mundo1"> 
-   <a href="https://github.com/llRedXD/Cursos/tree/main/CursoEmVideo/Python/Mundo1"> 
+   <a href="https://github.com/Miguel-ectil/Cursos/tree/main/mundo_1"> 
    <img  align="center" height="100" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo1.png"/>
    Python Mundo 1
 </h1>
 
 
-* [x] __*(Ex:35/35)*__
+* [x] __Completo__
 
 
 <h1 alt="Mundo2"> 
-   <a href="https://github.com/llRedXD/Cursos/tree/main/CursoEmVideo/Python/Mundo2"> 
+   <a href="https://github.com/Miguel-ectil/Cursos/tree/main/mundo_1"> 
    <img  align="center" height="100" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo2.png"/>
    Python Mundo 2
 </h1>
 
-
-* [x] __*(Ex:35/35)*__
+[x] 
 
 
 <h1 alt="Mundo3"> 
-   <a href="https://github.com/llRedXD/Cursos/tree/main/CursoEmVideo/Python/Mundo3"> 
+   <a href="https://github.com/Miguel-ectil/Cursos/tree/main/mundo_1"> 
    <img  align="center" height="100" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/2019/09/Python3%E2%80%93Mundo3.png"/>
    Python Mundo 3
 </h1>
