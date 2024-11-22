@@ -11,14 +11,14 @@
 </div>
 
 <div align="center" style="background: white">
-   <a href="https://github.com/llRedXD/Cursos/tree/main/CursoEmVideo">
+<!--    <a href="https://github.com/llRedXD/Cursos/tree/main/CursoEmVideo"> -->
    <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" />
 </div>
 
  * [x] __Completo__
 
 <h1 alt="Algoritimo"> 
-   <a href="https://github.com/llRedXD/Cursos/tree/main/Python/Algoritimo"> 
+   <a href="https://github.com/Miguel-ectil/Cursos/tree/main/Algoritimo"> 
    <img  align="center" height="100" width="100" src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/algoritmos-circle-cbeb3e4b5b7b763c5c83ac7e40d488b3-5d48cb37edbef.jpg"/> 
    Algoritmo
 </h1>
